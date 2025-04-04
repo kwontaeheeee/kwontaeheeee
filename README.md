@@ -1,5 +1,9 @@
-## Hi there 👋
+## Welcome 👋
+<div align = "center">
 
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=🙌Welcome🙌&desc=Taehee's%20Github&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=A9A9F5)
+
+</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -32,6 +36,28 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
+<br>
+<br>
+<br>
+<div style="display: flex; justify-content: space-between; margin: 10px;">
+
+  <div style="flex: 1; text-align: left; margin-right: 10px; width: 48%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=kwontaeheeee" alt="Anurag's GitHub stats" style="width: 100%; height: 200px; object-fit: contain;">
+    </a>
+  </div>
+
+  <div style="flex: 1; text-align: left; width: 48%;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwontaeheeee&layout=compact" alt="Top Langs" style="width: 100%; height: 200px; object-fit: contain;">
+    </a>
+  </div>
+
+</div>
+
+
+
+<br>
 
 **kwontaeheeee/kwontaeheeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
