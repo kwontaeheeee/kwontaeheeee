@@ -1,6 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=d9d1e6&height=300&section=header&text=taehee GitHub&fontSize=100)
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d9d1e6&height=200&section=header&text=Taehee Github&fontSize=90" />
 
 <!--
 **kwontaeheeee/kwontaeheeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
