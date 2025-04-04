@@ -46,6 +46,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=kwontaeheeee" alt="Anurag's GitHub stats" style="width: 100%; height: 200px; object-fit: contain;">
     </a>
   </div>
+  <br>
 
   <div style="flex: 1; text-align: left; width: 48%;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
