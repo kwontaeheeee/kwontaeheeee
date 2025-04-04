@@ -3,6 +3,7 @@
 **kwontaeheeee/kwontaeheeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=EEEUN%20&desc=Eun%20Seo%20Lee&color=auto
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
