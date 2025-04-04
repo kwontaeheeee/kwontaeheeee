@@ -1,9 +1,5 @@
 ## Hi there 👋
-https://capsule-render.vercel.app/api?
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-![header](https://capsule-render.vercel.app/api?type=slice)
-
+![header](https://capsule-render.vercel.app/api?type=transparent&&fontColor=d9d1e6&height=300&section=header&text=taehee GitHub&fontSize=100)
 
 
 <!--
